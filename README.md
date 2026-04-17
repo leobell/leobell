@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Ciao, sono Leonardo
 
-<!--
-**leobell/leobell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Web Developer in formazione.
 
-Here are some ideas to get you started:
+💻 Lavoro con:
+- JavaScript
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sto costruendo progetti pratici per migliorare le mie competenze come sviluppatore web.
+
+📚 Attualmente sto seguendo un percorso Full Stack (Epicode).
+
+📫 Contatti:
+- LinkedIn: www.linkedin.com/in/leonardo-tabe-bell
+- Email: bellleonardo04@gmail.com
+
+🎯 Obiettivo: entrare nel mondo dello sviluppo web come junior developer.
