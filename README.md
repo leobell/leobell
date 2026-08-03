@@ -1,18 +1,28 @@
-# 👋 Ciao, sono Leonardo
+👋 Ciao, sono Leonardo Bell
+Full Stack Web Developer | Specializzato in ambito MERN & Modern Web Technologies
 
-Junior Full Stack Web Developer in formazione.
+🚀 Ho da poco completato con successo il Master Full Stack Web Development presso Epicode, dove ho trasformato la passione per il codice in progetti reali, scalabili e completi (dall'interfaccia frontend al database backend).
 
-💻 Lavoro con:
-- JavaScript
-- HTML
-- CSS
+💻 Tech Stack & Tools
+Frontend: JavaScript (ES6+), React.js, HTML5, CSS3, Responsive Design, Tailwind CSS
 
-🚀 Sto costruendo progetti pratici per migliorare le mie competenze come sviluppatore web.
+- Backend: Node.js, Express.js, RESTful APIs
 
-📚 Attualmente sto seguendo un percorso Full Stack (Epicode).
+- Database: MongoDB, Mongoose
 
-📫 Contatti:
-- LinkedIn: www.linkedin.com/in/leonardo-tabe-bell
-- Email: bellleonardo04@gmail.com
+- Strumenti & Versionamento: Git, GitHub, Vite, Postman, npm
 
-🎯 Obiettivo: entrare nel mondo dello sviluppo web come junior developer.
+- Sistemi Operativi: Windows, macOS
+
+🎓 Formazione & Certificazioni
+Master Full Stack Web Developer — Epicode
+
+Focus: Sviluppo di web app complete CRUD, gestione dello stato, integrazione API e architetture RESTful.
+
+🎯 Obiettivo Professionale
+Entrare a far parte di un team dinamico come Junior Full Stack / Frontend Developer per contribuire alla creazione di prodotti digitali moderni e continuare a crescere professionalmente.
+
+📫 Connettiamoci!
+LinkedIn: www.linkedin.com/in/leonardo-tabe-bell
+
+Email: bellleonardo04@gmail.com
