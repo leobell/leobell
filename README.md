@@ -28,13 +28,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bruno-F15A24?style=for-the-badge&logo=bruno&logoColor=white" />
 </p>
 
 * **Frontend:** JavaScript (ES6+), React.js, HTML5, CSS3, Responsive Design, Tailwind CSS
 * **Backend:** Node.js, Express.js, RESTful APIs
 * **Database:** MongoDB, Mongoose
-* **Strumenti & Versionamento:** Git, GitHub, Vite, Postman, npm
+* **Strumenti & Versionamento:** Git, GitHub, Vite, Bruno (API Client), npm
 * **Sistemi Operativi:** Windows, macOS
 
 ---
