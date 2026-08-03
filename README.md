@@ -8,7 +8,7 @@
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-tabe-bell)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellleonardo04@gmail.com)
+[![Email](https://img.shields.io/badge/bellleonardo04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellleonardo04@gmail.com)
 
 </div>
 
@@ -49,6 +49,13 @@
 ### 🎯 Obiettivo Professionale
 
 Entrare a far parte di un team dinamico come **Junior Full Stack / Frontend Developer** per contribuire alla creazione di prodotti digitali moderni e continuare a crescere professionalmente.
+
+---
+
+### 📫 Contatti Diretti
+
+* 📧 **Email:** [bellleonardo04@gmail.com](mailto:bellleonardo04@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/leonardo-tabe-bell](https://www.linkedin.com/in/leonardo-tabe-bell)
 
 ---
 
